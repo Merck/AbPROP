@@ -4,7 +4,7 @@ This repository contains the code for the AbPROP models presented in the ICML 20
 
 ## Step 0 - Data Preparation
 
-Before proceeding with the program, make sure you have all the experimental or predicted protein data files (in PDB format) for the sequences you want to test. These files should be aligned in a Multiple Sequence Alignment (MSA) format. Additionally, you will need the corresponding labels for each protein, as well as a predefined train/test split. If you have separate Heavy and Light chains, align them separately and then concatenate them to create the full MSA.
+Before proceeding with the program, make sure you have all the experimental or predicted protein data files (in PDB format) for the sequences you wish to test. These files should be aligned in a Multiple Sequence Alignment (MSA) format. Additionally, you will need the corresponding labels for each protein, as well as a predefined train/test split. If you have separate Heavy and Light chains, align them separately and then concatenate them to create the full MSA.
 
 In this step, you need to prepare a protein dataframe with the following columns:
 
