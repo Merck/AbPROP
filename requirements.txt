@@ -6,7 +6,7 @@ aiosignal==1.3.1
 alabaster==0.7.13
 altair==4.2.2
 antlr4-python3-runtime @ file:///home/conda/feedstock_root/build_artifacts/antlr-python-runtime-meta_1638309185939/work
-anyio==3.6.2
+anyio==4.14.2
 anykeystore==0.2
 apex==0.1
 args==0.1.0
