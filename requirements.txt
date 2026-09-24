@@ -122,7 +122,7 @@ keras==2.11.0
 kiwisolver==1.4.4
 kornia==0.6.8
 libclang==16.0.0
-lightning==1.9.4
+lightning==2.6.6
 lightning-api-access==0.0.5
 lightning-cloud==0.5.31
 lightning-utilities==0.7.1
