@@ -152,7 +152,7 @@ networkx==2.8.7
 numba==0.56.3
 numexpr==2.8.3
 numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1666092566311/work
-oauthlib==3.2.2
+oauthlib==4.0.0
 omegaconf @ file:///home/conda/feedstock_root/build_artifacts/omegaconf_1663344566517/work
 openmm==0.2
 opt-einsum==3.3.0
