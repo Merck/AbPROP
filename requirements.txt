@@ -194,7 +194,7 @@ pyct==0.5.0
 pydantic==1.10.6
 pydeck==0.8.0
 Pygments==2.13.0
-PyJWT==2.6.0
+PyJWT==2.15.0
 Pympler==1.0.1
 pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1665350324128/work
 pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1652235407899/work
