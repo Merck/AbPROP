@@ -283,7 +283,7 @@ torchaudio==0.12.1
 torchmetrics==0.11.3
 torchsummary==1.5.1
 torchvision==0.13.1
-tornado==6.2
+tornado==6.5.9
 tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1662214488106/work
 traitlets==5.5.0
 transaction==3.0.1
