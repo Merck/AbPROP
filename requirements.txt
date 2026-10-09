@@ -44,7 +44,7 @@ cxxfilt==0.3.0
 cycler==0.11.0
 Cython @ file:///home/conda/feedstock_root/build_artifacts/cython_1659101927855/work
 dataclasses @ file:///home/conda/feedstock_root/build_artifacts/dataclasses_1628958434797/work
-datasets==2.10.1
+datasets==5.0.1
 dateutils==0.6.12
 debugpy==1.6.3
 decorator==5.1.1
