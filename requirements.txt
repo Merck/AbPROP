@@ -52,7 +52,7 @@ deepdiff==6.2.3
 defusedxml==0.7.1
 descriptastorus==2.6.1
 dill==0.3.5.1
-dnspython==2.3.0
+dnspython==2.9.0
 docker==6.0.1
 docstring-parser==0.15
 docutils==0.18.1
