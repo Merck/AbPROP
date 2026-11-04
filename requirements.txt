@@ -68,7 +68,7 @@ fairseq @ file:///home/conda/feedstock_root/build_artifacts/fairseq_165769542744
 fastapi==0.88.0
 fasteners==0.18
 fastrlock==0.8.1
-filelock==3.8.0
+filelock==4.2.1
 flatbuffers==23.3.3
 fonttools==4.38.0
 FPSim2 @ file:///home/widatall/FPSim2
