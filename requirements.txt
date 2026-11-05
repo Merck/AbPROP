@@ -274,7 +274,7 @@ tokenizers==0.13.1
 toml==0.10.2
 tomli==2.0.1
 toolz==0.12.0
-torch==1.12.1
+torch==2.13.0
 torch-cluster @ file:///usr/share/miniconda/envs/test/conda-bld/pytorch-cluster_1656602642185/work
 torch-geometric @ file:///usr/share/miniconda/envs/test/conda-bld/pyg_1665660815989/work
 torch-scatter @ file:///usr/share/miniconda/envs/test/conda-bld/pytorch-scatter_1656600967105/work
