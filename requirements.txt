@@ -211,7 +211,7 @@ python-editor==1.0.4
 python-multipart==0.0.6
 python3-openid==3.2.0
 pytorch-fast-transformers==0.4.0
-pytorch-lightning==1.9.4
+pytorch-lightning==2.6.1
 pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1666198565857/work
 pytz-deprecation-shim==0.1.0.post0
 pyviz-comms==2.2.1
